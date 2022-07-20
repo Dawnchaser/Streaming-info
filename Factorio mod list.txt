@@ -1,0 +1,69 @@
+List of active mods: 
+AAI Containers & Warehouses
+AAI Industry 
+AAI Programmable Structures
+AAI Programmable Vehicles
+AAI Signal Transmission
+AAI Signals
+AAI Vehicles: Chaingunner
+AAI Vehicles: Flame Tank
+AAI Vehicles: Flame Tumbler
+AAI Vehicles: Hauler
+AAI Vehicles: Laser Tank
+AAI Vehicles: Miner 
+AAI Vehicles: Warden
+AAI Zones
+Accumulator Wagon
+Advanced Fluid Handling
+Alien Biomes
+Alien Biomes High-Res Terrain
+Auto Deconstruct
+Beast Finder
+BeeBots
+Bottleneck Lite
+Bullet Trains
+Combat Mechanics Overhaul
+Disco Science
+Equipment Gantry
+Factorio Library
+Factorio Standard Library
+Factory Planner
+Fluid Memory Storage
+Fluid Must Flow
+Fluid Must Flow for Space Exploration
+FNEI
+Grappling Gun
+Helmod: assistant for planning your base.
+Honk
+How Far Has it Been?
+InformaTron
+Jetpack
+Krastorio 2
+Krastorio 2 Assets
+Landfill Everything
+LTN - Logistic Train Network
+LTN Cleanup
+LTN Combinatior Modernized
+LTN Content Reader
+LTN Manager 
+Module Inserter
+Regenerate Terrain
+Robot Attrition
+Shield Projector
+Simulation Helper
+Space Exploration 
+Space Exploration Graphics Part 1
+Space Exploration Graphics Part 2
+Space Exploration Graphics Part 3
+Space Exploration Graphics Part 4
+Space Exploration Graphics Part 5
+Space Exploration HR Graphics (Optional)
+Space Exploration Postprocess (Required)
+Squeak Through
+Stop on Red
+Task List
+Text plates
+Train Log
+VehicleSnap
+Walls Block Spitters
+YARM - Resource Manager
