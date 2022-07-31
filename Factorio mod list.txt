@@ -28,10 +28,12 @@ Equipment Gantry
 Factorio Library
 Factorio Standard Library
 Factory Planner
+Flow Control
 Fluid Memory Storage
 Fluid Must Flow
 Fluid Must Flow for Space Exploration
 FNEI
+Fully Automated Rail Layer fixed for SE 0.6
 Grappling Gun
 Helmod: assistant for planning your base.
 Honk
@@ -46,11 +48,14 @@ LTN Cleanup
 LTN Combinatior Modernized
 LTN Content Reader
 LTN Manager 
+Milestones
 Module Inserter
 Regenerate Terrain
 Robot Attrition
+Rocket Log
 Shield Projector
 Simulation Helper
+Solar Calculator
 Space Exploration 
 Space Exploration Graphics Part 1
 Space Exploration Graphics Part 2
@@ -58,6 +63,7 @@ Space Exploration Graphics Part 3
 Space Exploration Graphics Part 4
 Space Exploration Graphics Part 5
 Space Exploration HR Graphics (Optional)
+Space Exploration Menu Simulations
 Space Exploration Postprocess (Required)
 Squeak Through
 Stop on Red
